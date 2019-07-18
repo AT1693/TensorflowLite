@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "794305078",
+    "firebase_url": "https://demoskill-4af80.firebaseio.com",
+    "project_id": "demoskill-4af80",
+    "storage_bucket": "demoskill-4af80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794305078:android:7bde7db5dbf5af7f",
+        "android_client_info": {
+          "package_name": "android.example.com.tflitecamerademo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794305078-q4qlq1hi30lhmiguo5rbn7sbrarj6mlh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.example.com.tflitecamerademo",
+            "certificate_hash": "fc560e2e8bec8039753eecbf9ebfcb01ae6a0781"
+          }
+        },
+        {
+          "client_id": "794305078-t8gu0231mae3k1nmo5q1bei5aqkpbavt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4nNnW14gBH8nHrPWHqSFVpT456gH9XT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794305078-ohimlr0ptgoccsfu7s49rgo8761sgs4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
